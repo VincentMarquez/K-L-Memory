@@ -189,7 +189,7 @@ If you use K-L-Memory in your research, please cite:
 
 ## 📧 Contact
 
-For questions or collaborations, please open an issue or contact [your-email].
+For questions or collaborations, please open an issue or contact [vincentmarquez405@gmail.com].
 
 ---
 
